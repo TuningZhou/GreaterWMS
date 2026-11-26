@@ -1,0 +1,10 @@
+{
+  "name": "dmxsmart-gitbook-preview",
+  "version": "1.0.0",
+  "private": true,
+  "description": "DMXSmart 帮助中心本地 GitBook 预览",
+  "scripts": {
+    "preview": "npx --yes --package=node@10 --package=gitbook-cli@2.3.2 -c \"gitbook serve . --port 4000\"",
+    "preview:build": "npx --yes --package=node@10 --package=gitbook-cli@2.3.2 -c \"gitbook build . _preview\""
+  }
+}

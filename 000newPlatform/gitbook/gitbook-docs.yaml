@@ -1,0 +1,11 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: DMXSmart 帮助中心
+  structure:
+    - type: space
+      key: help-center
+      title: 帮助中心
+      path: help-center
+      default: true
+      content:
+        directory: ./docs

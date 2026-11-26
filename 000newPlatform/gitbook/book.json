@@ -1,0 +1,13 @@
+{
+  "title": "DMXSmart 帮助中心",
+  "author": "DMXSmart",
+  "description": "WMS、TMS、打单系统和 Y2 使用手册",
+  "language": "zh-hans",
+  "root": "docs",
+  "plugins": ["search"],
+  "pluginsConfig": {
+    "search": {
+      "maxIndexSize": 2000000
+    }
+  }
+}

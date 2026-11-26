@@ -1,0 +1,25 @@
+# 管理端功能说明
+
+* [管理端初始化](ManagementInit/README.md)
+  * [渠道设置](ManagementInit/ChannelSettings/README.md)
+    * [设置运费模板](ManagementInit/ChannelSettings/SetShippingTemplate.md)
+    * [发货渠道](ManagementInit/ChannelSettings/ShippingChannel.md)
+    * [销售渠道](ManagementInit/ChannelSettings/DistributionChannel.md)
+    * [燃油附加费](ManagementInit/ChannelSettings/FuelSurcharge.md)
+  * [发件地址](ManagementInit/mailingAddress.md)
+  * [发件人分区](ManagementInit/SenderZone.md)
+  * [系统设置](ManagementInit/SystemSettings.md)
+  * [客户设置](ManagementInit/CustomerSetup.md)
+  * [支付接口](ManagementInit/PaymentInterface/README.md)
+    * [微信](ManagementInit/PaymentInterface/WeChat.md)
+    * [支付宝](ManagementInit/PaymentInterface/Alipay.md)
+    * [PayPal](ManagementInit/PaymentInterface/PayPal.md)
+* [运单](Waybill.md)
+* [结算](Settlement/README.md)
+  * [银行账户](Settlement/BankAccount.md)
+  * [应收结算](Settlement/AccountsReceivableSettlement.md)
+  * [应付结算](Settlement/AccountsPayableSettlement.md)
+  * [其他费用](Settlement/OtherExpenses.md)
+  * [毛利统计](Settlement/GrossProfitStatistics.md)
+
+<!-- 由 https://help.dmxsmart.com/docs/printer/FunctionTerminal/ManagementInit/ChannelSettings/SetShippingTemplate 的侧边栏分类生成 -->
